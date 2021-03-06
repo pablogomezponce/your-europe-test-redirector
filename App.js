@@ -10,10 +10,10 @@ function waitFor(destino) {
 export default function App() {
   let destino = '';
 
-  if (Math.random() * 10 <= 7) {
-    destino = 'https://code.jquery.com/jquery-3.6.0.min.js';
+  if (Math.random() * 100 <= 70) {
+    destino = 'https://xb23d8i1.optimalworkshop.com/optimalsort/q747txv7';
   } else {
-    destino = 'https://stackoverflow.com/questions/46498522/html-redirect-on-page-load';
+    destino = 'https://xb23d8i1.optimalworkshop.com/treejack/gamma';
   }
 
   return (
